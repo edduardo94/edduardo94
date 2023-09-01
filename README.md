@@ -1,3 +1,1 @@
-[![CoolerVoid's github stats](https://github-readme-stats.vercel.app/api?username=edduardo94&hide=prs,issues,contribs&show_icons=true&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edduardo94&langs_count=8&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
